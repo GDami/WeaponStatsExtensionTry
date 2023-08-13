@@ -1,0 +1,25 @@
+{
+	"name": "WeaponServiceBreakdown",
+	"namespace": "dami",
+	"version_number": "1.0.0",
+	"description": "breaks down the weapon_service utilities into more funcs for modders",
+	"website_url": "",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"incompatibilities": [],
+			"authors": [
+				"dami"
+			],
+			"compatible_mod_loader_version": ["6.0.0"],
+			"compatible_game_version": ["1.0.0.3"],
+			"config_schema": {
+				"title":"ZABAZABA",
+				"description":"NOTHING TO SEE HERE",
+				"type": "object",
+				"properties": {
+				}
+			}
+		}
+	}
+}

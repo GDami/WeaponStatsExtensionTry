@@ -1,0 +1,27 @@
+{
+	"name": "WeaponStatsExtender",
+	"namespace": "dami",
+	"version_number": "1.0.0",
+	"description": "OMG ! You can now extend weapon_stats.gd !!!",
+	"website_url": "",
+	"dependencies": [
+		"dami-WeaponServiceBreakdown"
+	],
+	"extra": {
+		"godot": {
+			"incompatibilities": [],
+			"authors": [
+				"dami"
+			],
+			"compatible_mod_loader_version": ["6.0.0"],
+			"compatible_game_version": ["1.0.0.3"],
+			"config_schema": {
+				"title":"ZABAZABA",
+				"description":"NOTHING TO SEE HERE",
+				"type": "object",
+				"properties": {
+				}
+			}
+		}
+	}
+}
